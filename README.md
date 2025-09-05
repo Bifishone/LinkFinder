@@ -94,7 +94,7 @@ python3 linkfinder.py -h
 
 ## 许可证
 
-本项目基于原项目的 **MIT 许可证** 进行二次开发，遵循相同协议。详情请查看 [LICENSE](https://www.doubao.com/chat/LICENSE) 文件。
+本项目基于原项目的 **MIT 许可证** 进行二次开发，遵循相同协议。详情请查看 <b>LICENSE</b> 文件。
 
 ## 致谢
 
